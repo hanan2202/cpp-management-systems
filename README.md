@@ -21,3 +21,20 @@ Features:
 2. View a list of employee records
 3. Modify existing employee records
 4. Delete employee records
+
+**3. Bookshop Inventory System**
+A console-based application developed using C++ to manage a bookshop's inventory and book sales.
+
+Features:
+1. Add new books to the inventory
+2. View all available books
+3. Buy books
+4. Search for books
+5. Edit book details
+
+Book Information:
+- Title
+- Author
+- Price
+- Publisher
+- Stock quantity
